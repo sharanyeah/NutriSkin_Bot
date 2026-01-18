@@ -1,5 +1,5 @@
-Kaggle datasets: Dermnet
-https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+
+
 
 
 
@@ -8,6 +8,7 @@ tensorflow==2.15.0
 numpy==1.26.4
 pillow==10.2.0
 gunicorn==21.2.0
+
 
 
 
