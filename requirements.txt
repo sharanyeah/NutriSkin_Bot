@@ -3,11 +3,12 @@ https://www.kaggle.com/datasets/shubhamgoel27/dermnet
 
 
 
-numpy
-tensorflow 
-tensorflow.keras.preprocessing --- image
-tensorflow.keras.applications.mobilenet_v3 --- preprocess_input
-flask -- Flask, request, jsonify, render_template
-werkzeug.utils --- secure_filename
+flask==3.0.2
+tensorflow==2.15.0
+numpy==1.26.4
+pillow==10.2.0
+gunicorn==21.2.0
+
+
 
 
